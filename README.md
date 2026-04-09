@@ -56,6 +56,11 @@ java Servidor
 java Cliente
 ```
 
+### 4 Ejecución remota
+```bash
+java -Djava.rmi.server.hostname=IP-Servidor Servidor
+```
+
 ---
 
 ## Funcionamiento
